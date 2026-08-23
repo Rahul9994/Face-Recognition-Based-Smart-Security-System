@@ -9,7 +9,6 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow%2FKeras-2.x-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
 [![ESP32](https://img.shields.io/badge/ESP32--CAM-IoT-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/)
 [![Arduino](https://img.shields.io/badge/Arduino_UNO-LED_Control-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://arduino.cc)
-[![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](LICENSE)
 
 <br/>
 
@@ -262,12 +261,6 @@ Contributions are welcome! To contribute:
 3. Commit your changes: `git commit -m 'Add some AmazingFeature'`
 4. Push to the branch: `git push origin feature/AmazingFeature`
 5. Open a Pull Request
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
