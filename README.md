@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=🔐+Face+Recognition+Smart+Security+System;ESP32-CAM+%2B+Machine+Learning+%2B+IoT;Real-Time+Intrusion+Detection+%26+Alerts" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=🔐+Face+Recognition+Smart+Security+System;ESP32-CAM+%2B+Machine+Learning+%2B+IoT;Real-Time+Intrusion+Detection+%26+Alerts)](https://git.io/typing-svg)
 
 <br/>
 
